@@ -12,13 +12,6 @@ Users can:
 
 ---
 
-## Demo Screenshot
-
-![Quiz App Screenshot](screenshot.png)  
-_(Optional: Add your screenshot in the repository)_
-
----
-
 ## Features
 
 - **Question Types:** Generic, Coding, IQ
@@ -44,6 +37,6 @@ _(Optional: Add your screenshot in the repository)_
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/react-quiz-app.git
+git clone https://github.com/r0zaan/react-quiz-app.git
 cd react-quiz-app
 ```
