@@ -12,6 +12,12 @@ Users can:
 
 ---
 
+## Demo
+
+Try the app live here: [React Quiz App Demo](https://rt-quiz-app.netlify.app/)
+
+---
+
 ## Features
 
 - **Question Types:** Generic, Coding, IQ
@@ -39,4 +45,7 @@ Users can:
 ```bash
 git clone https://github.com/r0zaan/react-quiz-app.git
 cd react-quiz-app
+npm install
+npm start
+
 ```
